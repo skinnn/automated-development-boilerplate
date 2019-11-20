@@ -1,0 +1,11 @@
+/* 
+  Example path for images
+  url('../images/some-image.png')
+*/
+* {
+  box-sizing: border-box;
+  margin: 0; }
+
+body {
+  color: #f4f4f4;
+  background-color: #333; }

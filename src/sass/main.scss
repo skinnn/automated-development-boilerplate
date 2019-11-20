@@ -1,0 +1,20 @@
+@import 'common/variables';
+@import 'layouts/header';
+@import 'layouts/footer';
+@import 'components/buttons';
+@import 'components/forms';
+
+/* 
+  Example path for images
+  url('../images/some-image.png')
+*/
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  color: #f4f4f4;
+  background-color: #333;
+}
