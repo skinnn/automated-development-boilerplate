@@ -3,7 +3,7 @@ Automated workflow for developing vanilla websites with tasks for building asset
 
 Using Babel to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments. It means that you can **"*Use next generation JavaScript, today!*"**
 
-#### Gulp, BrowserSync, Babel and SASS
+This workflow consists of **[Gulp](https://gulpjs.com/), [BrowserSync](https://www.browsersync.io/), [Babel](https://babeljs.io/) and [SASS](https://sass-lang.com/)**.
 
 ---
 
